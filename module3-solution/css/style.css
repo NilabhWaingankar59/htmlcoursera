@@ -15,7 +15,9 @@ h3{
    
 }
 
-
+#row1{
+    margin-right: 0px;
+}
 p{
     padding-right: 10px;
     padding-left: 10px;
@@ -32,8 +34,4 @@ li{
 #header-nav, #con{
     padding-left: 0px;
     padding-right: 0px;
-}
-
-#row1{
-    margin-right: 0px;
 }
